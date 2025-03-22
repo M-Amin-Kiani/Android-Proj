@@ -1,5 +1,80 @@
-# Android-Proj
-all exercises in Android :
+
+# 📱 Android Projects
+
+## 📌 Overview
+
+**Android-Proj** is a collection of Android development exercises implemented using Kotlin. It includes basic projects utilizing both XML layouts and Jetpack Compose.
+
+---
+
+## 🛠️ Requirements
+
+- Programming Language: Kotlin
+- Tools:
+  - Android Studio
+  - Android SDK
+  - Jetpack Compose (for Compose-based projects)
+
+---
+
+## 📂 Project Structure
+
+```
+Android-Proj/
+├── ex1_ProfitCalculator_with_xml/
+│   └── ... (Project using XML layout)
+├── tr1_ReachMeCard_with_JetPackCompose/
+│   └── ... (Project using Jetpack Compose)
+└── README.md
+```
+
+- `ex1_ProfitCalculator_with_xml`: A basic profit calculator app using XML UI
+- `tr1_ReachMeCard_with_JetPackCompose`: A contact card UI created with Jetpack Compose
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/M-Amin-Kiani/Android-Proj.git
+cd Android-Proj
+```
+
+2. **Open in Android Studio**:
+
+- Open Android Studio → `File > Open` → Select the desired project folder.
+
+3. **Sync and Build**:
+
+- Android Studio will automatically install required dependencies.
+- Ensure `build.gradle` files are properly synced.
+
+4. **Run the app**:
+
+- Use an Android Emulator or a physical device.
+- Click the Run ▶️ button to install and launch the app.
+
+---
+
+## ✍️ Author
+
+- Name: Mohammad Amin Kiani
+- GitHub: [M-Amin-Kiani](https://github.com/M-Amin-Kiani)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Support
+
+For issues and contributions, feel free to open an issue or submit a pull request.
+
 ![daneshjooyar-En-certificate-10121-kotlin-programming-language](https://github.com/user-attachments/assets/0032519d-4f90-4e51-9b2e-609b04babb09)
 
 ## 1- ex1_ProfitCalculator_with_xml
